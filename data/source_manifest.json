@@ -1,0 +1,58 @@
+{
+  "source": "Philadelphia Fed RTDSM ROUTPUT, based on BEA releases",
+  "requests": [
+    {
+      "name": "quarterly",
+      "file": "quarterly.xlsx",
+      "url": "https://www.philadelphiafed.org/-/media/FRBP/Assets/Surveys-And-Data/real-time-data/data-files/xlsx/ROUTPUTQvQd.xlsx?sc_lang=en&hash=34FA1C6BF0007996E1885C8C32E3BEF9",
+      "start_utc": "2026-10-30T16:42:10.394858+00:00",
+      "end_utc": "2026-10-30T16:42:10.838892+00:00",
+      "http_status": 200,
+      "bytes": 243161,
+      "sha256": "25433da00f46764a167590efe5c3e1c20a3e91e98ba0f49e6f92f058bc42c9e3",
+      "headers": {
+        "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "Content-Length": "243161"
+      },
+      "pre_collection_commit": "9c8b8e76a29f5193ab920d667fa573da4c177c27"
+    },
+    {
+      "name": "releases",
+      "file": "releases.xlsx",
+      "url": "https://www.philadelphiafed.org/-/media/FRBP/Assets/Surveys-And-Data/real-time-data/data-files/xlsx/routput_first_second_third.xlsx?sc_lang=en&hash=AB8BB59BBBF6840DE1448851E90D7A80",
+      "start_utc": "2026-10-30T16:42:10.839895+00:00",
+      "end_utc": "2026-10-30T16:42:10.991515+00:00",
+      "http_status": 200,
+      "bytes": 16435,
+      "sha256": "2bffa7a68ad43a950a04cb378a368b5e59192b1febcfe22d2a0e110132bfc9c5",
+      "headers": {
+        "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "Content-Length": "16435"
+      },
+      "pre_collection_commit": "9c8b8e76a29f5193ab920d667fa573da4c177c27"
+    }
+  ],
+  "planned_origins": 100,
+  "level_cells": 2223,
+  "first_release_cells": 100,
+  "selected_vintages": 102,
+  "revised_vintage": "2026Q3",
+  "quarterly_sheet_dimensions": [
+    319,
+    245
+  ],
+  "releases_header_row": 5,
+  "releases_first_column": 2,
+  "file_sha256": {
+    "data/levels.csv": "d596abc28326182fefebaf007ba1fdce8c4d1c4254ebe6a116d6e25b34ea74eb",
+    "data/first_release.csv": "9b73a4ec2e0084e6da357b916a15b11dcb198ca77895f6c2f741fc13df8a5906",
+    "data/vintage_catalog.json": "d7ab5ad11f48ee08300b1788bf438791a32f53b8063d585c6af0996d6fed1d9b"
+  },
+  "numeric_projection": "Runtime decimal rendering of stored Excel numeric cells; preserve explicit missing tokens and coordinates",
+  "quarterly_information_time": "Source-defined middle-quarter snapshot; no exact-day or intraday claim",
+  "runtime": {
+    "python": "3.12.14",
+    "openpyxl": "3.1.5"
+  },
+  "rights": "Minimal attributed factual projections only; original workbooks, documents and unused content excluded. See DATA_RIGHTS.md"
+}
