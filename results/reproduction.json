@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "exact_csv_fields": 63116,
+  "json_documents": 5,
+  "tests": 23,
+  "frozen_dependencies": 26,
+  "original_files_unchanged": true,
+  "network_during_replay": false,
+  "scope": "Local clone,full transformation and independent recomputation;no new source request"
+}

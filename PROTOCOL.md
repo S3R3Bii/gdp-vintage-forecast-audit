@@ -49,3 +49,11 @@ Independently reconcile the selected projections against the private XLSX using 
 ## Prior work and limits
 
 Real-time data and forecast sensitivity to revisions are established topics, including Croushore and Stark's official RTDSM work. Cite primary sources and do not claim this is a newly discovered issue or a new forecast estimator. Historical snapshot revisions may incorporate methodological/definition changes as well as additional information. No commercial adoption, production service, investment advice, realized savings or policy improvement is established by this study. Independent program manuscripts may be public after checks; formal-publication projects remain private.
+
+## Source precision correction before model selection - 30 October 2026
+
+The original full-precision cross-source check failed for all 98 non-exceptional planned targets. The independently reconciled First workbook stores values with at most four decimal places (91 values have four nonzero/retained places, seven have three and two have two); its Excel display format shows three places. The documentation does not promise higher numeric precision. Full-rational growth from the level cells and these stored values are therefore not precision-equivalent quantities.
+
+Retain the original failed code, protocol and output privately. The corrected cross-source check compares the exact four-decimal half-even representation of the level-based formula with the stored First value, keeping the original 1e-8 residual threshold. Require each supplied First number itself to have no precision beyond four decimals. Retain every raw full-precision difference separately. Agreement at four places is consistent with source rounding; it does not establish an upstream value beyond the stored precision.
+
+This correction changes the independent source representation check, not the level-based targets, model twelve-decimal arithmetic, six candidates, temporal split or two timing exclusions. No development or held forecast score had been computed. Call the study a corrected source-interpretation retrospective evaluation, not an untouched preregistered experiment. Higher-precision agreement with the supplied First series remains unverified outside the corrected claim.

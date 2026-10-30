@@ -1,0 +1,274 @@
+{
+  "development|real_time__early|zero|overall|all|mae|2": {
+    "text": "2.769",
+    "page": 2
+  },
+  "development|real_time__later|zero|overall|all|mae|2": {
+    "text": "2.773",
+    "page": 2
+  },
+  "development|revised__early|zero|overall|all|mae|2": {
+    "text": "2.769",
+    "page": 2
+  },
+  "development|revised__later|zero|overall|all|mae|2": {
+    "text": "2.773",
+    "page": 2
+  },
+  "development|real_time__early|mean20|overall|all|mae|2": {
+    "text": "1.955",
+    "page": 2
+  },
+  "development|real_time__later|mean20|overall|all|mae|2": {
+    "text": "2.199",
+    "page": 2
+  },
+  "development|revised__early|mean20|overall|all|mae|2": {
+    "text": "1.947",
+    "page": 2
+  },
+  "development|revised__later|mean20|overall|all|mae|2": {
+    "text": "2.222",
+    "page": 2
+  },
+  "development|real_time__early|blend25|overall|all|mae|2": {
+    "text": "1.702",
+    "page": 2
+  },
+  "development|real_time__later|blend25|overall|all|mae|2": {
+    "text": "2.006",
+    "page": 2
+  },
+  "development|revised__early|blend25|overall|all|mae|2": {
+    "text": "1.661",
+    "page": 2
+  },
+  "development|revised__later|blend25|overall|all|mae|2": {
+    "text": "2.032",
+    "page": 2
+  },
+  "development|real_time__early|blend50|overall|all|mae|2": {
+    "text": "1.595",
+    "page": 2
+  },
+  "development|real_time__later|blend50|overall|all|mae|2": {
+    "text": "1.983",
+    "page": 2
+  },
+  "development|revised__early|blend50|overall|all|mae|2": {
+    "text": "1.527",
+    "page": 2
+  },
+  "development|revised__later|blend50|overall|all|mae|2": {
+    "text": "2.024",
+    "page": 2
+  },
+  "development|real_time__early|blend75|overall|all|mae|2": {
+    "text": "1.627",
+    "page": 2
+  },
+  "development|real_time__later|blend75|overall|all|mae|2": {
+    "text": "2.043",
+    "page": 2
+  },
+  "development|revised__early|blend75|overall|all|mae|2": {
+    "text": "1.593",
+    "page": 2
+  },
+  "development|revised__later|blend75|overall|all|mae|2": {
+    "text": "2.276",
+    "page": 2
+  },
+  "development|real_time__early|last_growth|overall|all|mae|2": {
+    "text": "1.765",
+    "page": 2
+  },
+  "development|real_time__later|last_growth|overall|all|mae|2": {
+    "text": "2.171",
+    "page": 2
+  },
+  "development|revised__early|last_growth|overall|all|mae|2": {
+    "text": "1.936",
+    "page": 2
+  },
+  "development|revised__later|last_growth|overall|all|mae|2": {
+    "text": "2.606",
+    "page": 2
+  },
+  "held|real_time__early|zero|overall|all|mae|3": {
+    "text": "4.090",
+    "page": 3
+  },
+  "held|real_time__later|zero|overall|all|mae|3": {
+    "text": "4.475",
+    "page": 3
+  },
+  "held|revised__early|zero|overall|all|mae|3": {
+    "text": "4.090",
+    "page": 3
+  },
+  "held|revised__later|zero|overall|all|mae|3": {
+    "text": "4.475",
+    "page": 3
+  },
+  "held|real_time__early|mean20|overall|all|mae|3": {
+    "text": "2.987",
+    "page": 3
+  },
+  "held|real_time__later|mean20|overall|all|mae|3": {
+    "text": "3.012",
+    "page": 3
+  },
+  "held|revised__early|mean20|overall|all|mae|3": {
+    "text": "3.003",
+    "page": 3
+  },
+  "held|revised__later|mean20|overall|all|mae|3": {
+    "text": "2.939",
+    "page": 3
+  },
+  "held|real_time__early|blend25|overall|all|mae|3": {
+    "text": "3.234",
+    "page": 3
+  },
+  "held|real_time__later|blend25|overall|all|mae|3": {
+    "text": "3.226",
+    "page": 3
+  },
+  "held|revised__early|blend25|overall|all|mae|3": {
+    "text": "3.284",
+    "page": 3
+  },
+  "held|revised__later|blend25|overall|all|mae|3": {
+    "text": "3.167",
+    "page": 3
+  },
+  "held|real_time__early|blend50|overall|all|mae|3": {
+    "text": "3.629",
+    "page": 3
+  },
+  "held|real_time__later|blend50|overall|all|mae|3": {
+    "text": "3.641",
+    "page": 3
+  },
+  "held|revised__early|blend50|overall|all|mae|3": {
+    "text": "3.716",
+    "page": 3
+  },
+  "held|revised__later|blend50|overall|all|mae|3": {
+    "text": "3.584",
+    "page": 3
+  },
+  "held|real_time__early|blend75|overall|all|mae|3": {
+    "text": "4.058",
+    "page": 3
+  },
+  "held|real_time__later|blend75|overall|all|mae|3": {
+    "text": "4.131",
+    "page": 3
+  },
+  "held|revised__early|blend75|overall|all|mae|3": {
+    "text": "4.174",
+    "page": 3
+  },
+  "held|revised__later|blend75|overall|all|mae|3": {
+    "text": "4.046",
+    "page": 3
+  },
+  "held|real_time__early|last_growth|overall|all|mae|3": {
+    "text": "4.548",
+    "page": 3
+  },
+  "held|real_time__later|last_growth|overall|all|mae|3": {
+    "text": "4.622",
+    "page": 3
+  },
+  "held|revised__early|last_growth|overall|all|mae|3": {
+    "text": "4.636",
+    "page": 3
+  },
+  "held|revised__later|last_growth|overall|all|mae|3": {
+    "text": "4.543",
+    "page": 3
+  },
+  "held|real_time__early|mean20|era|2014-2019|mae|4": {
+    "text": "0.912",
+    "page": 4
+  },
+  "held|real_time__early|mean20|era|2014-2019|rmse|4": {
+    "text": "1.093",
+    "page": 4
+  },
+  "held|real_time__early|blend50|era|2014-2019|mae|4": {
+    "text": "0.930",
+    "page": 4
+  },
+  "held|real_time__early|blend50|era|2014-2019|rmse|4": {
+    "text": "1.211",
+    "page": 4
+  },
+  "held|real_time__early|mean20|era|2020-2021|mae|4": {
+    "text": "11.338",
+    "page": 4
+  },
+  "held|real_time__early|mean20|era|2020-2021|rmse|4": {
+    "text": "17.363",
+    "page": 4
+  },
+  "held|real_time__early|blend50|era|2020-2021|mae|4": {
+    "text": "14.259",
+    "page": 4
+  },
+  "held|real_time__early|blend50|era|2020-2021|rmse|4": {
+    "text": "21.537",
+    "page": 4
+  },
+  "held|real_time__early|mean20|era|2022-2024|mae|4": {
+    "text": "1.226",
+    "page": 4
+  },
+  "held|real_time__early|mean20|era|2022-2024|rmse|4": {
+    "text": "1.820",
+    "page": 4
+  },
+  "held|real_time__early|blend50|era|2022-2024|mae|4": {
+    "text": "1.488",
+    "page": 4
+  },
+  "held|real_time__early|blend50|era|2022-2024|rmse|4": {
+    "text": "2.173",
+    "page": 4
+  },
+  "held|real_time__early|blend50|overall|all|mae|0": {
+    "text": "3.629",
+    "page": 0
+  },
+  "held|real_time__early|mean20|overall|all|mae|0": {
+    "text": "2.987",
+    "page": 0
+  },
+  "held|real_time__later|blend50|overall|all|mae|0": {
+    "text": "3.641",
+    "page": 0
+  },
+  "held|real_time__later|mean20|overall|all|mae|0": {
+    "text": "3.012",
+    "page": 0
+  },
+  "held|real_time__early|blend50|overall|all|rmse|3": {
+    "text": "9.511",
+    "page": 3
+  },
+  "held|real_time__later|blend50|overall|all|rmse|3": {
+    "text": "9.384",
+    "page": 3
+  },
+  "held|revised__early|blend50|overall|all|rmse|3": {
+    "text": "9.231",
+    "page": 3
+  },
+  "held|revised__later|blend50|overall|all|rmse|3": {
+    "text": "9.075",
+    "page": 3
+  }
+}

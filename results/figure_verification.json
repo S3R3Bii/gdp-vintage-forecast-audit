@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "checks": 351,
+  "source_values": 38,
+  "svg_coordinates": 304,
+  "hashes": 9,
+  "scope": "Result values,rendered SVG bar coordinates and exact artifact hashes;no operational validation"
+}

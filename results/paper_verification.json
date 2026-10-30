@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "checks": 178,
+  "pages": 6,
+  "numeric_display_values": 68,
+  "manuscript_sha256": "bad00f6a15e67cd76779fb98fcddc40da92398c1e78b75165e6c9e54b4d9857a",
+  "scope": "Independent observation-level display/ranking arithmetic,claims,hashes and bounded PDF actions;visual review separate"
+}

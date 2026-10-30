@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "mode": "PRIVATE_ORIGINALS_INDEPENDENT_OOXML_PASS",
+  "checks": 45528,
+  "selected_cells": 2323,
+  "vintages": 102,
+  "limits": "Source-defined quarterly information sets; no exact-day availability or final-truth claim"
+}
