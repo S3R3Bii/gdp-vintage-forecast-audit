@@ -1,0 +1,5 @@
+# Source use and boundaries
+
+Source: the [Philadelphia Fed Real-Time Data Set for Macroeconomists](https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/real-time-data-set-for-macroeconomists), [ROUTPUT files](https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/routput), based on BEA national accounts. The site's [terms](https://www.philadelphiafed.org/about-us/privacy-notice) permit informational, educational and research use and prohibit commercial endorsement and disruptive access. This is independent research, not an endorsed service or a sale of source data.
+
+Only the needed factual numeric cells, quarter keys and source-cell coordinates are public with attribution. Original workbooks, source documents, logos, unused expressive material and any private content remain excluded. No blanket CC0 claim is made over the Bank's compilation or publications. Code licensing does not grant rights to excluded source content. FRED/ALFRED observations are not used. Neither the Bank nor BEA endorses the analysis. Historical vintages and a later revision are measurements with limitations, not final economic truth.

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+rendered/
+paper/*.log
+paper/*.aux
+paper/*.out
+paper/*.xdv
