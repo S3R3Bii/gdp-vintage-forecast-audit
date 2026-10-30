@@ -1,0 +1,31 @@
+name: Reproduce GDP vintage audit
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: study-${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+jobs:
+  reproduce:
+    if: github.event_name != 'pull_request' || github.event.pull_request.draft == false
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python src/verify_source.py
+      - run: python src/verify_results.py development
+      - run: python src/verify_results.py held
+      - run: python src/reproduce.py
+      - run: python src/verify_figures.py
+      - run: python src/verify_paper.py
+      - run: python src/verify_canonical_git.py

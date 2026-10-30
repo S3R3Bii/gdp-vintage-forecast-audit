@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "stage": "held",
+  "checks": 22565,
+  "origins_checked": 100,
+  "growth_inputs_checked": 4000,
+  "prediction_rows": 1008,
+  "metric_rows": 360,
+  "source_agreements_at_four_decimals": 98,
+  "independence": "Separate SQLite vintage/history joins,160-digit Decimal growth and exact loss/rank arithmetic; no analysis imports",
+  "limits": "Corrected source-precision interpretation; no higher-precision First agreement,exact-day availability or operational benefit claim"
+}
