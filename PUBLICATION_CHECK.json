@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-30T16:54:35.347972+00:00",
+  "timestamp_utc": "2026-10-30T16:54:41.426187+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 31,
+  "files_checked": 32,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -22,6 +22,7 @@
     "results/development_pairwise_orders.csv": "2b3fe631683ae608089c5a1f25bee230ff280e1d7a551bf61e9c4af159baa263",
     "results/development_predictions.csv": "99f3cd44de0a8a3056389788d1937916c3ae31137716f67597fac0ac78d500a9",
     "results/development_rankings.csv": "ad2e53c2fa1a62b3c520f47a4573af86b60411ecc6e85c7c127bee3edc8ad567",
+    "results/frozen_dependencies.json": "d2d6ba7ca535ea6cc0c3901fd25d0124f5d99779001d784e80ad18bb18bf4819",
     "results/growth_inputs.csv": "7d1e95f5f81a43665fa206f41c22b42d89d3955171823606a0ea79ec9b8432bc",
     "results/independent_development.json": "f7652ddf9f64ab4da75825a01c6db72186e0e5b0d0960f645ab05654a0a13095",
     "results/origin_eligibility.csv": "6fc59fbc13efc76113dd949a22f4c213e1acbbc9d990d206229cc586eb16a0f4",
