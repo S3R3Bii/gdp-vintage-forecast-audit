@@ -1,0 +1,8 @@
+{
+  "status": "PASS_AT_STORED_SOURCE_PRECISION",
+  "first_series_compared": 98,
+  "comparison": "Exact four-decimal source representation before the model twelve-decimal quantization; original raw differences retained",
+  "tolerance_pp": "0.00000001",
+  "mismatches": [],
+  "scope": "Source cross-check before model selection; current files are not proof of exact-day historical access"
+}
